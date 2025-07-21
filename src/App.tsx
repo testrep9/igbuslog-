@@ -1,5 +1,5 @@
-const INSTAGRAM_APP_ID = "YOUR_INSTAGRAM_APP_ID"; // Replace this
-const REDIRECT_URI = "https://your-vercel-project.vercel.app/auth/instagram";
+const INSTAGRAM_APP_ID = "3132188296938461"; // Replace this
+const REDIRECT_URI = "https://igbuslog.vercel.app/auth/instagram";
 
 export default function App() {
   const loginWithInstagram = () => {
